@@ -5,7 +5,7 @@ Image-Background-Remover is a Python-based tool designed to simplify the process
 ## Features
 - **Easy to Use**: Simple and intuitive code structure for quick implementation.
 - **Powerful Processing**: Leverages the `rembg` library for effective background removal.
-- **Flexible**: Compatible with various image formats supported by the `PIL` 
+- **Flexible**: Compatible with various image formats supported by the `PIL` library.
 - **Open Source**: Free to use and modify under the MIT license.
 
 ## Installation
